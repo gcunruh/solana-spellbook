@@ -10,4 +10,4 @@ _Solana Spellbook_ is always growing! Look for more and better content from cont
 
 The Solana Spellbook is a public repo on Github and we welcome contributions which can be made by creating an issue or opening a PR [on Github](https://github.com/gcunruh/solana-spellbook).&#x20;
 
-Want to see your project/protocol/tool featured in _Solana Spellbook_? Reach out to [Gabriel ](https://app.gitbook.com/u/BE1MZzKVHHNgCTJXfuwinFcl2sk2 "mention")
+Want to see your project/protocol/tool featured in _Solana Spellbook_? Reach out to [Gabriel](https://www.divination.dev/about).
