@@ -8,16 +8,17 @@ Solana Spellbook has two sections:
 
 #### Essential Tools
 
-1. General Development Tools
-2. NFT Tools
-3. DeFi Tools
-4. Mobile Tools
+* General Development Tools
+* NFT Tools
+* DeFi Tools
+* Mobile Tools
 
 #### Spells (Tips & Tricks)
 
-1. Common Development Patterns
-2. Common Errors / Debug Methods
-3. Dark Magic - Items with known security risks or vulnerabilities
+* Curated Resources
+* Common Development Patterns
+* Common Errors
+* Dark Magic - Items with known security risks or vulnerabilities
 
 {% hint style="info" %}
 All spells are un-audited and out of context. Use at your own risk.

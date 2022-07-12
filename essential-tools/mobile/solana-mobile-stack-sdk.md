@@ -1,3 +1,7 @@
+---
+description: https://solanamobile.com/
+---
+
 # 📱 Solana Mobile Stack SDK
 
 The [Solana Mobile Stack](https://github.com/solana-mobile/solana-mobile-stack-sdk) is the newest Software Development Kit released by Solana Labs. It serves as the basis for Solana development on mobile and includes:
