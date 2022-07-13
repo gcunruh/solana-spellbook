@@ -1,5 +1,7 @@
 # About Solana Spellbook
 
+_<mark style="color:red;">**EXCUSE OUR DUST: First Edition is a Work in Progress**</mark>_
+
 _Solana Spellbook_ is a developer resource that provides essential tools, tips, and tricks for building on Solana. The Spellbook is developed and maintained by [Divination](https://divination.dev).&#x20;
 
 The key focus of _Solana Spellbook_ is developer speed and ease. It is an ideal resource for those new to Solana (we wish we had these resources when we started) and those tired of Google-ing and posting their questions in Discord Servers over and over.&#x20;

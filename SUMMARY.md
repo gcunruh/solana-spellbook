@@ -18,7 +18,7 @@
   * [🟡 NFToken](essential-tools/nfts/nftoken.md)
 * [Mobile](essential-tools/mobile/README.md)
   * [📱 Solana Mobile Stack SDK](essential-tools/mobile/solana-mobile-stack-sdk.md)
-* [DeFi](essential-tools/defi.md)
+* [DeFi](essential-tools/defi/README.md)
 
 ## ✨ Spells (Tips & Tricks)
 
