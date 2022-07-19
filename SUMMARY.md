@@ -8,17 +8,17 @@
 
 ## 🛠 Essential Tools
 
-* [General Developmnet](essential-tools/general-developmnet/README.md)
-  * [⚓ Anchor](essential-tools/general-developmnet/anchor.md)
-  * [🔎 Solana Explorer](essential-tools/general-developmnet/solana-explorer.md)
-  * [🌐 Solscan](essential-tools/general-developmnet/solscan.md)
+* [General Development](essential-tools/general-development/README.md)
+  * [⚓ Anchor](essential-tools/general-development/anchor.md)
+  * [🔎 Solana Explorer](essential-tools/general-development/solana-explorer.md)
+  * [🌐 Solscan](essential-tools/general-development/solscan.md)
 * [NFTs](essential-tools/nfts/README.md)
   * [💾 File Storage](essential-tools/nfts/file-storage.md)
   * [🖼 Metaplex](essential-tools/nfts/metaplex.md)
   * [🟡 NFToken](essential-tools/nfts/nftoken.md)
 * [Mobile](essential-tools/mobile/README.md)
   * [📱 Solana Mobile Stack SDK](essential-tools/mobile/solana-mobile-stack-sdk.md)
-* [DeFi](essential-tools/defi/README.md)
+* [DeFi](essential-tools/defi.md)
 
 ## ✨ Spells (Tips & Tricks)
 
