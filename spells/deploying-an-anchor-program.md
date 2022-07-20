@@ -1,6 +1,4 @@
-# Common Development Patterns
-
-### Deploying an Anchor Program
+# Deploying an Anchor Program
 
 These are the best steps for deploying an anchor program for the first time:
 

@@ -6,7 +6,7 @@ _Solana Spellbook_ is a developer resource that provides essential tools, tips, 
 
 The key focus of _Solana Spellbook_ is developer speed and ease. It is an ideal resource for those new to Solana (we wish we had these resources when we started) and those tired of Google-ing and posting their questions in Discord Servers over and over.&#x20;
 
-Solana Spellbook has two sections:
+Solana Spellbook has three sections:
 
 #### Essential Tools
 
@@ -15,12 +15,9 @@ Solana Spellbook has two sections:
 * DeFi Tools
 * Mobile Tools
 
-#### Spells (Tips & Tricks)
+#### Spells - Spells are Solana Specific guides & tutorials for common development use-cases
 
-* Curated Resources
-* Common Development Patterns
-* Common Errors
-* Dark Magic - Items with known security risks or vulnerabilities
+**Curated Resources - Other great Solana stuff we've found useful**
 
 {% hint style="info" %}
 All spells are un-audited and out of context. Use at your own risk.

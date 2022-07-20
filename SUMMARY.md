@@ -20,13 +20,15 @@
   * [📱 Solana Mobile Stack SDK](essential-tools/mobile/solana-mobile-stack-sdk.md)
 * [DeFi](essential-tools/defi.md)
 
-## ✨ Spells (Tips & Tricks)
+## ✨ Spells
 
-* [Curated Resources](spells-tips-and-tricks/curated-resources.md)
-* [Common Development Patterns](spells-tips-and-tricks/common-development-patterns.md)
-* [Common Errors](spells-tips-and-tricks/common-errors.md)
-* [Dark Magic](spells-tips-and-tricks/dark-magic.md)
+* [Deploying an Anchor Program](spells/deploying-an-anchor-program.md)
+* [Use a Phantom created wallet in the Solana-CLI](spells/use-a-phantom-created-wallet-in-the-solana-cli.md)
+* [Solana Authentication using signed messages](spells/solana-authentication-using-signed-messages.md)
+* [Common Errors](spells/common-errors.md)
+* [Dark Magic](spells/dark-magic.md)
 
 ***
 
+* [📚 Curated Resources](curated-resources.md)
 * [About Divination](about-divination.md)
